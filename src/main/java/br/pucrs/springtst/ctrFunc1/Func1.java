@@ -3,5 +3,6 @@ public static void main(String [] args) {
 
     x++;
     x++;
+    x++;
     System.out.println("x = " + x);
 }
